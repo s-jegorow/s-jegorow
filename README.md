@@ -1,8 +1,6 @@
-### Sebastian Jegorow
+### Heya, I'm Sebastian!
 
-Software developer for fun. The output matters.
+I'm a software developer from Germany, mostly drawn to projects around **education**, **design**, **accessibility**, and **music**.
 
 #### Stack
-[![My Skills](https://skillicons.dev/icons?i=py,cs,dotnet,fastapi,html,js,ts,css,github,docker)](https://skillicons.dev)
-
-→ [sebastianjegorow.de](https://www.sebastianjegorow.de)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,ts,js,html,css,dotnet,fastapi,nodejs,mariadb,mysql,influxdb,linux,nginx,docker,azure,github&perline=9)
